@@ -35,9 +35,9 @@ A collection of end-to-end Retrieval-Augmented Generation (RAG) experiments, chu
 
 ## Tech Stack
 * **Frameworks:** LlamaIndex, LangChain
-* **Vector Stores & Databases:** PostgreSQL (`pgvector` via Supabase), FAISS
-* **Embeddings & Retrieval:** Hugging Face Sentence Transformers, BM25 Hybrid Search
-* **LLM Inference:** Groq API, Google Gemini
+* **Vector Stores & Databases:** PostgreSQL (`pgvector` via Supabase), FAISS , IBMDB2 
+* **Embeddings & Retrieval:** Hugging Face Sentence Transformers, BM25 Hybrid Search 
+* **LLM Inference:** Groq API, Google Gemini ,ollama
 * **Environment:** Google Colab, Python 3.10+
 
 ---
